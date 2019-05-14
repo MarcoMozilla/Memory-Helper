@@ -1,0 +1,264 @@
+hiragana	kanji	eng	type
+おはよう		good morning	greeting&expression
+おはようございます		good morning (polite)	greeting&expression
+こんにちは		good afternoon	greeting&expression
+こんばんは		good evening	greeting&expression
+さようなら		good bye	greeting&expression
+おやすみなさい		good night	greeting&expression
+ありがとう		thank you	greeting&expression
+ありがとうございます		thank you (polite)	greeting&expression
+すみません		excuse me	greeting&expression
+いいえ		no	greeting&expression
+いってきます		I'll go and come back	greeting&expression
+いってらっしゃい		please go and come back	greeting&expression
+ただいま		I'm home	greeting&expression
+おかえりなさい		Welcome home	greeting&expression
+いただきます		Thank you for the meal (before eating)	greeting&expression
+ごちそうさまでした		Thank you for the meal (after eating)	greeting&expression
+はじめまして		first time to meet	greeting&expression
+よろしくおねがいします		nice to meet you	greeting&expression
+わかりましたか		do you understand?	greeting&expression
+わかりました		I understand	greeting&expression
+わかりません		I don't understand	greeting&expression
+ゆっくりいってください		please say it slowly	greeting&expression
+もういちどいってください		please say it again	greeting&expression
+ちょっとまってください		please wait	greeting&expression
+きいてください		please listen	greeting&expression
+ページをみてください		please look at page	greeting&expression
+ひだりにまがる		turn left	direction
+まっすぐ行く		go straight	direction
+みぎにまがる		turn right	direction
+みちをわたる		cross the street	direction
+ふたつめのかどをひだりにまがる		turn left at the second corner	direction
+ひとつめのしんごうをみぎにまがる		turn right at the first traffic light	direction
+みちのひだりがわ		left side of the street	direction
+みちのみぎがわ		right side of the street	direction
+きた	北	north	direction
+にし	西	west	direction
+ひがし	東	east	direction
+みなみ	南	south	direction
+みぎ	右	right	direction
+ひだり	左	left	direction
+まえ	前	front	direction
+うしろ	後ろ	back	direction
+なか	中	inside	direction
+うえ	上	on	direction
+した	下	under	direction
+ちかく	近く	near	direction
+となり	隣	next	direction
+あいだ	間	between	direction
+～ね		isn't it?	post office
+（～を）ください		please give me	post office
+（～を）おねがいします		please …	post office
+（～を）どうぞ		here you go	post office
+～ませんか		do you want do…	post office
+place に thing が あります		there is/are thing at place	post office
+place に person が います		there is/are person at place	post office
+にも		に (too)	post office
+～ましょう		let's …	post office
+～ましょうか		shall we…	post office
+これ、おねがいします		can you take care of this please?	post office
+五十円きってを三枚ください		give me three 50-yen stamps please.	post office
+~でおねがいします		make this (thing) please.	post office
+なんにちぐらいかかりますか		how many days will it take?	post office
+百五十円になります		it will be 150 yen.	post office
+～てもいいですか		may I ….	post office
+いいですよ		you may …	post office
+～てはいけません		you must not …	post office
+～て、～		…(verb) and …(verb)	post office
+~から		because …	post office
+どちらでもいいです		both are fine	class
+おなじです	同じです	same thing	class
+だいたいおなじです	だいたい同じです	more or less the same	class
+ちょっとちがいます	ちょっと違います	a little different	class
+つかえません	使えません	can not use it	class
+だめです		no good	class
+てをあげてください	手をあげてください	raise your hand	class
+よんできてください	読んできてください	read it before coming to class	class
+しゅくだいをだしてください	宿題を出してください	hand in the homework	class
+きょうかしょをとじてください	教科書を閉じてください	close the text book	class
+となりのひとにきいてください	となりの人に聞いてください	ask the person sitting next to you	class
+やめてください		please stop	class
+きょうはこれでおわります	今日はこれで終わります	that's it for today	class
+しゅくだい	宿題	homework	class
+しめきり		deadline	class
+れんしゅう	練習	exercise	class
+いみ	意味	meaning	class
+はつおん	発音	pronunciation	class
+ぷんぽうーー	文法	grammar	class
+しつもん	質問	question	class
+こたえ	答	answer	class
+れい	例	example	class
+かっこ		parenthesis	class
+まる		correct	class
+ばつ		wrong	class
+くだけたいいかた	くだけた言い方	colloquial expression	class
+かたいいいかた	かたい言い方	bookish expression	class
+ていねいないいかた	ていねいな言い方	polite expression	class
+ほうげん	方言	dialect	class
+ひょうじゅんご	標準語	standard Japanese	class
+たとえば		for example	class
+ほかに		anything else	class
+～ばん	～番	number …	class
+～ページ		page number…	class
+～ぎょうめ	～行目	line number…	class
+ふたりずつ	二人ずつ	two people each	class
+くろい	黒い	black	color
+しろい	白い	white	color
+あかい	赤い	red	color
+あおい	青い	blue	color
+きいろい	黄色い	yellow	color
+ちゃいろ	茶色	brown	color
+あかいかばん	赤いかばん	red bag	color
+あかがいちばんすきです	赤がいちばん好きです	I like red the best	color
+みとり／グリーン	緑	green	color
+むらさき	紫	purple	color
+はいいろ／グレー	灰色	gray	color
+みずいろ	水色	light blue	color
+ピンク		pink	color
+きんいろ／ゴールド	金色	gold	color
+ぎんいろ／シルバー	銀色	silver	color
+みどり／グリーンのセーター	緑／グリーンのセーター	green sweater	color
+かおがあおいですね	顔が青いですね	you look pale	color
+しろくろのしゃしん	白黒の写真	black and white picture	color
+メアリーさんはきんぱつです	メアリーさんは金髪です	mary has blonde hair	color
+まもなくはっしゃします	まもなく発車します	we will be leaving soon	station
+でんしゃがまいります	電車が参ります	A train is arriving	station
+つぎは～にとまります	次は～に止まります	Next (we'll stop at)..	station
+ドアがしまります。ごちゅういください	ドアが閉まります。ご注意ください	the doors are closing. Please be careful	station
+このでんしゃはあきはばらにとまりますか	この電車は秋葉原に止まりますか	does this train stop at Akihabara?	station
+しゅうでんはなんじですか	終電は何時ですか	what time is the last train	station
+とうきょうまでのしていせきをいちまいおねがいします	東京までの指定席を一枚お願いします	one reserved ticket to Tokyo, please.	station
+がくわりがつかえますか	学割が使えますか	Can I get a student discount	station
+かまくらいきのでんしゃはどれですか	鎌倉行きの電車はどれですか	which one is the train bound for Kamakura	station
+にばんせんです	二番線です	track number two	station
+ふつう	普通	local	station
+きゅうこう	急行	express	station
+とっきゅう	特急	super express	station
+～いき	～行き	bound for…	station
+～ほうめん	～方面	serving…areas	station
+じょうしゃけん	乗車券	(boarding) ticket	station
+かいすうけん	回数券	coupons	station
+ていきけん	定期券	commuter's pass	station
+がくわり	学割	student discount	station
+していせき	指定席	reserved seat	station
+じゆうせき	自由席	general admission seat	station
+きんえんしゃ	禁煙車	nonsmoking car	station
+いちごうしゃ	一号車	Car No.1	station
+おうふく	往復	round trip	station
+かたみち	片道	one way	station
+～ばんせん	～番線	track number …	station
+きっぶうりば	切符売り場	ticket vending area	station
+かいさつ	改札	gate	station
+ホーム		platform	station
+ばいてん	売店	shop	station
+でぐち	出口	exit	station
+いりぐち	入口	entrance	station
+かいだん	階段	stairs	station
+いちばんまえ	いちばん前	first car ; front end	station
+いちばんうしろ	いちばん後ろ	last car ; tail end	station
+のりかえ	乗り換え	transfer	station
+つぎは～	次は～	next(stop)	station
+せんぽつ	先発	departing first	station
+じはつ	次発	departing second	station
+しゅうでん	終電	last train	station
+すみません。はじめてなんですが	すみません。初めてなんですが	excuse me. This is my first visit	health
+はい、ほけんしょうをみせてください	はい、保険証を見せてください	Okay. Please show me your health insurance certificate	health
+このかみになまえとじゅうしょをかいてください	この紙に名前と住所を書いてください	please fill in your name and address on this paper	health
+これはなんのくすりですか	これは何の薬ですか	what kind of medicine are these	health
+いたみどめです。しょくごにのんでください	痛み止めです。食後に飲んでください	these are painkillers. Please take one after meals	health
+わかりました		I see	health
+おだいじに	お大事に	please take care	health
+げりです	下痢です	I have diarrhea	health
+べんぴです	便秘です	I am constipated	health
+せいりです	生理です	I have my period	health
+かふんしょうです	花粉症です	I have hay fever	health
+（～に）アレルギーがあります		I have an allergy to..	health
+むしばがあります	虫歯があります	I have a bad tooth	health
+くしゃみがでます	くしゃみが出ます	I sneeze	health
+はなみずがでます	鼻水が出ます	I have a running nose	health
+せなかがかゆいです	背中がかゆいです	My back itches	health
+はっしんがあります	発疹があります	I have rashes	health
+あまいがします	あまいがします	I feel dizzy	health
+はきました	吐きました	I threw up	health
+きぶんがわるいです	気分が悪いです	I am not feeling well	health
+やけどをしました	やけどをしました	I burned myself	health
+あしのほねをりました	足の骨を折りました	I broke my leg	health
+けがをしました	けがをしました	I hurt myself	health
+ないか	内科	physician	health
+ひふか	皮膚科	dermatologist	health
+げか	外科	surgeon	health
+さんふじんか	産婦人科	obstetrician and gynecologist	health
+せいけいげか	整形外科	orthopedic surgeon	health
+がんか	眼科	ophthalmologist	health
+しか	歯科	dentist	health
+じびか	耳鼻科	otorhinolaryngologist ; ENT doctor	health
+こうせいぶっしつ	抗生物質	antibiotic	health
+レントゲン		X-ray	health
+しゅじゅつ	手術	operation	health
+ちゅうしゃ	注射	injection	health
+たいおんけい	体温計	thermometer	health
+さっか	作家	writer	occupation
+ジャーナリスト		journalist	occupation
+けいさつかん	警察官	police officer	occupation
+はいゆう	俳優	actor ; actress	occupation
+うちゅうひこうし	宇宙飛行士	astronaut	occupation
+やきゅうせんしゅ	野球選手	baseball player	occupation
+だいとうりょう	大統領	president of a country	occupation
+じょゆう	女優	actress	occupation
+かんごし	看護師	nurse	occupation
+しょうぼうし	消防士	firefighter	occupation
+まんがか	漫画家	cartoonist	occupation
+おととい	一昨日	day before yesterday	date
+きのう	昨日	yesterday	date
+きょう	今日	today	date
+あした	明日	tomorrow	date
+あさって	明後日	day after tomorrow	date
+にしゅうかんまえ	二週間前	two weeks ago	date
+せんせんしゅう	先々週	week before last week	date
+せんしゅう	先週	last week	date
+こんしゅう	今週	this week	date
+らいしゅう	来週	next week	date
+さらいしゅう	再来週	week after next week	date
+にかげつまえ	二か月前	two months ago	date
+せんげつ	先月	last month	date
+こんげつ	今月	this month	date
+らいげつ	来月	next month	date
+さらいげつ	再来月	the month after next	date
+おととし	一昨年	the year before last	date
+きょねん	去年	last year	date
+ことし	今年	this year	date
+らいねん	来年	next year	date
+さらいねん	再来年	the year after next	date
+ついたち	一日	day 1	date
+ふつか	二日	day 2	date
+みっか	三日	day 3	date
+よっか	四日	day 4	date
+いつか	五日	day 5	date
+むいか	六日	day 6	date
+なのか	七日	day 7	date
+ようか	八日	day 8	date
+ここのか	九日	day 9	date
+とおか	十日	day 10	date
+じゅうよっか	十四日	day 14	date
+はつか	二十日	day 20	date
+にじゅうよっか	二十四日	day 24	date
+にち	日	day	date
+がつ	月	month	date
+かみ	髪	hair	body
+め	目	eye	body
+みみ	耳	ear	body
+はな	鼻	nose	body
+くち	口	mouth	body
+ゆび	指	finger	body
+は	歯	teeth	body
+て	手	hand	body
+くび	首	neck	body
+あたま	頭	head	body
+かお	顔	face	body
+かた	肩	shoulder	body
+むね	胸	breast	body
+せなか	背中	back	body
+おなか		belly	body
+おしり		butt	body
+あし	足	foot	body
