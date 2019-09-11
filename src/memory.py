@@ -72,7 +72,7 @@ def prestart(dctn,recordname):
                 goodcount += 1
                 acy = getcent(goodcount, totalcount)
                 # currentkey, query[currentkey]
-                outstring = out.format(right, acy, len(query))
+                outstring = out.format(right, acy, len(query)-1)
 
                 # track detailrecord
                 dr.plusDuration(currentkey, Tdelta)
