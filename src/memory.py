@@ -33,6 +33,15 @@ def prestart(dctn,recordname):
 
     out = "{}                   {}%  #{}\n"
 
+    hintkey = Key.alt_l
+    goodkey = Key.shift
+    badkey = Key.ctrl_l
+
+    print()
+    print(f"answer:  {hintkey}")
+    print(f"correct: {goodkey}")
+    print(f"wrong:   {badkey}")
+        
     print("\n=======================start=======================\n")
     currentkey = query.randkey()
     print(currentkey)
@@ -47,10 +56,6 @@ def prestart(dctn,recordname):
         #print(hint)
         #print("                                       ",repr(key))
         #Get Value to check
-
-        hintkey = Key.alt_l
-        goodkey = Key.shift
-        badkey = Key.ctrl_l
 
         if hint and key == hintkey:
             hint = False
